@@ -3,6 +3,6 @@ The U.S. Government Publishing Office (GPO) is making available all MARC bibliog
 
 These files and the monthly CGP files in the CGP_MARC_Records collection essentially represent the entire CGP. GPO may periodically refresh the files in the All_CGP_Records collection with a new snapshot of the whole CGP.  
 
-The records are in MARCXML. The total size of the files is 1.45 GB (1,562,240,801 bytes). Each file in the repository holds approximately 48,000 records.  
+The records are in MARCXML. The total size of the files is 1.45 GB (1,562,240,801 bytes). Each of the 67 files in the repository holds approximately 15,000 records.  
 
 To download the files, use the "Code" button in the right-hand section of this page and select "Download ZIP." The ZIP file contains all of the files in the repository.  
