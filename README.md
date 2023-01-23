@@ -9,3 +9,11 @@ The records are in MARCXML. The total size of the files is 5.4 GB (5,806,832,361
 These same records are also available in UTF-8 format from the [cataloging-records-all-cgp-utf8](https://github.com/usgpo/cataloging-records-all-cgp-utf8) repository.
 
 To download the files, use the "Code" button in the right-hand section of this page and select "Download ZIP." The ZIP file contains all of the files in the repository.
+
+## Other LSCM Repositories
+
+Please visit LSCM's related repositories for more information about their contents.
+
+- [cataloging-records-all-cgp-utf8](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
+- [cataloging-records-all-serial-set-marcxml](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+- [cataloging-records-all-serial-set-utf8](https://github.com/usgpo/cataloging-records-serial-set-utf8)
