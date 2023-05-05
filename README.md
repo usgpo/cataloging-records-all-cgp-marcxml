@@ -12,8 +12,9 @@ To download the files, use the "Code" button in the right-hand section of this p
 
 ## Other LSCM Repositories
 
-LSCM also maintains and develops five other repositories:
+LSCM also maintains and develops other repositories:
 
+- [CGP on GitHub](https://github.com/usgpo/cataloging-records)
 - [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
