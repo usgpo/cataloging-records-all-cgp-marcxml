@@ -1,5 +1,6 @@
-# cataloging-records-all-cgp-marcxml
+# All CGP Records (MARC XML)
 
+## General Information
 The U.S. Government Publishing Office (GPO) is making available all MARC bibliographic records (1,096,123 records) in the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov) as of February 2025. The CGP is the U.S. Government Publishing Office's (GPO) finding tool for electronic and print publications from the legislative, executive, and judicial branches of the U.S. Federal Government. These publications comprise the National Bibliography of U.S. Government Publications.
 
 These files and the monthly CGP files in the [CGP MARC Records](https://github.com/usgpo/cataloging-records/tree/master/CGP_MARC_Records) collection essentially represent the entire CGP. GPO may periodically refresh the files in the All_CGP_Records collection with a new snapshot of the whole CGP.
@@ -45,3 +46,6 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
   - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
+
+## Feedback and Questions
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
