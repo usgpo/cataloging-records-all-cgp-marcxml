@@ -11,20 +11,21 @@ The records are in MARC XML. The total size of the zipped files is 357 MB. Each 
 
 These same records are also available in UTF-8 format from the [cataloging-records-all-cgp-utf8](https://github.com/usgpo/cataloging-records-all-cgp-utf8) repository.
 
-To download the files, use the "Code" button in the right-hand section of this page and select "Download ZIP." The ZIP file contains all of the files in the repository.
+------------
+## How to Use the Repository Resources
 
-## Other LSCM Repositories
+### Downloading Instructions
 
-LSCM develops and maintains other repositories:
+When downloading files from the repository, all files in the repository are included in the downloaded zip file.
 
-- [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
-- [CGP on GitHub](https://github.com/usgpo/cataloging-records)
-- [CGP Geographic-Based Record Sets](https://github.com/usgpo/cataloging-records-geographic-based)
-- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
-- [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
-- [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+1. In the top right-hand section of this page, click on the “Code” button.
+2. Click on “Download ZIP.”
+3. A ZIP file with all files in the repository will be downloaded.
+4. Unzip the file with a zip utility.
 
-## Repository History and Versions
+The zip file can also be downloaded directly at this link:[https://github.com/usgpo/cataloging-records-all-cgp-marcxml/archive/refs/heads/main.zip](https://github.com/usgpo/cataloging-records-all-cgp-marcxml/archive/refs/heads/main.zip)
+
+### Repository History and Versions
 
 GitHub uses a versioning system to provide access to the iterations of a repository. This enables a user to return to the state of a repository before the various changes ("commits" in GitHub terminology) that were made to it.
 
@@ -46,6 +47,17 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
   - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
+
+## Other LSCM Repositories
+
+LSCM develops and maintains other repositories:
+
+- [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
+- [CGP on GitHub](https://github.com/usgpo/cataloging-records)
+- [CGP Geographic-Based Record Sets](https://github.com/usgpo/cataloging-records-geographic-based)
+- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
+- [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
+- [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 
 ## Feedback and Questions
 For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
