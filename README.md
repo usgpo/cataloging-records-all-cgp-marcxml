@@ -60,4 +60,4 @@ LSCM develops and maintains other repositories:
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 
 ## Feedback and Questions
-For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category..
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
