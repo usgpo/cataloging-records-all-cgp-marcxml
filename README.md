@@ -13,6 +13,7 @@ The records are in MARC XML. The total size of the zipped files is 357 MB. Each 
 These same records are also available in UTF-8 format from the [cataloging-records-all-cgp-utf8](https://github.com/usgpo/cataloging-records-all-cgp-utf8) repository.
 
 ------------
+
 ## How to Use the Repository Resources
 
 ### Downloading Instructions
